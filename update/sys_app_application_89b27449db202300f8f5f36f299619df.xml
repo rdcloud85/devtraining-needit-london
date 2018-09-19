@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
         <description/>
         <device_type>browser</device_type>
         <hint/>
+        <mobile_app_menu/>
         <name>NeedIt</name>
         <order>100</order>
         <roles>x_58872_needit.needit_user</roles>
@@ -25,5 +27,6 @@
         <sys_updated_on>2018-09-12 21:22:59</sys_updated_on>
         <title>NeedIt</title>
         <view_name/>
+        <view_on_mobile>false</view_on_mobile>
     </sys_app_application>
 </record_update>

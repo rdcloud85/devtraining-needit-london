@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="NeedIt">89b27449db202300f8f5f36f299619df</application>
-        <assessment/>
         <content_page/>
         <device_type/>
         <filter/>
@@ -11,6 +11,7 @@
         <image/>
         <link_type>NEW</link_type>
         <map_page/>
+        <mobile_app_module/>
         <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_58872_needit_needit</name>
@@ -19,6 +20,8 @@
         <query/>
         <report/>
         <roles>x_58872_needit.needit_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-14 22:26:57</sys_created_on>
@@ -38,6 +41,7 @@
         <title>Create New</title>
         <uncancelable>false</uncancelable>
         <view_name/>
+        <view_on_mobile>false</view_on_mobile>
         <window_name/>
     </sys_app_module>
 </record_update>
